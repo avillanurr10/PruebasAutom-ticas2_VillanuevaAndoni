@@ -12,7 +12,7 @@ class CalculadoraTest {
         calc = new Calculadora(); // Se ejecuta antes de cada test
     }
 
-    // 
+    // suma tesses
     @Test
     void sumaDosNumerosPositivos() {
 
